@@ -1,4 +1,4 @@
-# Hogwarts Ubot
+# Hogwarts Ubot (t.me/Hogwarts_ubot)
 
 A Telegram bot that answers questions about Hogwarts Summer School. 
 
